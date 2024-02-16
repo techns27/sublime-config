@@ -1,0 +1,39 @@
+{
+	"color_scheme": "GitHub Dimmed.sublime-color-scheme",
+	"ensure_newline_at_eof_on_save": true,
+	"font_face": "Input",
+	"font_size": 15,
+	"line_padding_top": 2,
+	"line_padding_bottom": 2,
+	"highlight_line": true,
+	"save_on_focus_lost": true,
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+	"index_files": true,
+	"tab_size": 4,
+	"theme": "Default Dark.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"indent_to_bracket": true,
+	"caret_style": "phase",
+	"shift_tab_unindent": true,
+	"highlight_modified_tabs": true,
+	"bold_folder_labels": true,
+	"show_project_first": true,
+	"auto_complete": true,
+	"create_window_at_startup": true,
+	"hot_exit": false,
+	"remember_open_files": false,
+	"show_legacy_color_schemes": false,
+	/*"index_files": true,*/
+	// Ayu theme configuration
+	"ui_native_titlebar":       true, // native titlebar on macOs
+	"ui_separator":             true, // separators between panels
+	"ui_wide_scrollbars":       true, // wider scrollbars
+	"dark_theme": "Adaptive.sublime-theme",
+	"light_theme": "Default.sublime-theme",
+	"dark_color_scheme": "GitHub Dark Legacy.sublime-color-scheme",
+	"light_color_scheme": "GitHub Light.sublime-color-scheme",
+}

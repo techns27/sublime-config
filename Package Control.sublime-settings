@@ -1,0 +1,35 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"AceJump",
+		"AdvancedNewFile",
+		"Cheatsheet",
+		"Dracula Color Scheme",
+		"Emmet",
+		"FileIcons Mono",
+		"GitGutter",
+		"GitHub Theme",
+		"HTML-CSS-JS Prettify",
+		"Local History",
+		"LSP",
+		"LSP-file-watcher-chokidar",
+		"LSP-pylsp",
+		"Night Owl",
+		"Nord",
+		"Package Control",
+		"Pretty JSON",
+		"Python 3",
+		"rainbow_csv",
+		"SideBarEnhancements",
+		"SublimeGit",
+		"SublimeLinter",
+		"Sync Settings",
+		"Terminus",
+		"TimeNotify",
+	],
+}
